@@ -3,8 +3,8 @@
     File name: Procesammento de sinais EMG.py
     Author: Kelvin Carvalho
     Date created: 19/11/2019
-    Date last modified: 16/12/2019
-    Python Version: 3.7
+    Date last modified: 13/12/2021
+    Python Version: 3.9
 '''
 
 
