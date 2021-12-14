@@ -1,7 +1,7 @@
 # Processamento de sinais EMG com Python
 
 
-> Projeto em Python com a função de filtrar, vizualizar, processar e exportar datasets [2 x n] de sinais EMG com o uso das bibliotecas Numpy, Scipy, MatPlotLib, Tkinter e SKLearn.
+> Projeto em Python com a função de filtrar, visualizar, processar e exportar datasets [2 x n] de sinais EMG com o uso das bibliotecas Numpy, Scipy, MatPlotLib, Tkinter e SKLearn.
 
 ## 💻 Instruções
 
